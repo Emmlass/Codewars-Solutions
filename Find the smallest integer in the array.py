@@ -31,5 +31,5 @@ def find_smallest_int(arr):
 def smallest_int(arr):
     return int(min(arr))
 
-print(smallest_int([2,4,6,-5]))
-print(find_smallest_int([2,4,6,-5]))
+print(smallest_int([2,4,6,-5,-50.5]))
+print(find_smallest_int([2,4,6,-5,-50.5]))
